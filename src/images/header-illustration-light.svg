@@ -1,7 +1,7 @@
 <svg width="1440" height="324" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient x1="50%" y1="0%" x2="50%" y2="70.462%" id="a">
-      <stop stop-color="#535FD7" stop-opacity=".08" offset="0%"/>
+      <stop stop-color="#27AE60" stop-opacity=".08" offset="0%"/>
       <stop stop-color="#F9F9F9" stop-opacity="0" offset="100%"/>
     </linearGradient>
     <linearGradient x1="98.887%" y1="48.887%" x2="1.113%" y2="48.887%" id="b">
@@ -9,16 +9,16 @@
       <stop stop-color="#FFF" stop-opacity="0" offset="100%"/>
     </linearGradient>
     <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="c">
-      <stop stop-color="#FFBC48" offset="0%"/>
-      <stop stop-color="#FFBC48" stop-opacity=".48" offset="100%"/>
+      <stop stop-color="#27AE60" offset="0%"/>
+      <stop stop-color="#27AE60" stop-opacity=".48" offset="100%"/>
     </linearGradient>
     <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="d">
-      <stop stop-color="#FE7E1F" offset="0%"/>
-      <stop stop-color="#FE7E1F" stop-opacity="0" offset="100%"/>
+      <stop stop-color="#27AE60" offset="0%"/>
+      <stop stop-color="#27AE60" stop-opacity="0" offset="100%"/>
     </linearGradient>
     <linearGradient x1="6.251%" y1="50%" x2="25.292%" y2="102.06%" id="e">
-      <stop stop-color="#FE7E1F" stop-opacity=".11" offset="0%"/>
-      <stop stop-color="#FE7E1F" offset="100%"/>
+      <stop stop-color="#27AE60" stop-opacity=".11" offset="0%"/>
+      <stop stop-color="#27AE60" offset="100%"/>
     </linearGradient>
   </defs>
   <g fill="none" fill-rule="evenodd">
